@@ -1,16 +1,27 @@
-## Hi there 👋
+# Halo, saya Lochzs 👋
 
+Saya sedang belajar **HTML** (dan pelan-pelan lanjut ke **CSS** dan **JavaScript**).  
+Repo ini adalah **README profil** saya untuk mencatat progress dan menaruh beberapa latihan/proyek kecil.
+
+## Yang sedang atau sudah saya pelajari
+- HTML dasar
 <!--
-**Lochzs/Lochzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- (Next) CSS
+- (Next) JavaScript
 -->
+
+## Tujuan saya
+- Membuat halaman web sederhana dari nol
+- Konsisten latihan setiap minggu
+- Mengumpulkan proyek mini sebagai portofolio
+
+<!-- ## Proyek / latihan
+- (Akan saya isi) Latihan 1: halaman profil sederhana
+- (Akan saya isi) Latihan 2: halaman landing page
+-->
+
+## Catatan
+Kalau kamu melihat repo latihan saya dan punya saran, boleh banget buat issue atau komentar.
+
+---
+Terima kasih sudah mampir!
